@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @raivimo
-- 👀 I’m interested in Software.
-- 🌱 I’m currently learning Java code.
+- 👋 Hi, I’m Raimon Vilar Morera and I studying Web Development Apps on a Ausias March Hight School in Valencia, Spain.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java code, JavaScript and ShellScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
